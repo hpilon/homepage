@@ -1,4 +1,4 @@
-# Hi , and welcome to my home page
+#![!](img/minion_hi.png)  and welcome to my home page
 
 <a name="Top"></a>
 
