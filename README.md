@@ -1,4 +1,4 @@
-#![!](img/minion_hi.png)  and welcome to my home page
+![!](img/minion_hi.png)<span style="font-size: 40px;color:green">" and welcome to my home page</span>
 
 <a name="Top"></a>
 
