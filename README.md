@@ -9,7 +9,7 @@
 | |Description |Link / URL|
 | :---: | :--- | :--- |
 | Example # 1 | A very simple static HTML artifact using GitHub pages capabilities to host it |https://hpilon.github.io/homepageweb/ |
-| Example # 2 | small Python application to track the movies in my household | [[Hyperlink]](https://github.com/hpilon/movieapps) - https://github.com/hpilon/movieapps |
+| Example # 2 | Small Python application to track the movies in my household <br><br> During my time with my previous employer, I always aspired to transition into their DevOps/Cloud team to gain hands-on experience in that domain. Unfortunately, it never materialized.<br><br>To pursue this interest independently, I developed a small Python application (BETA v1.0) to track all the movies scattered across my home. The project allowed me to simulate real DevOps activities and explore open-source tools to create a basic DevOps environment. The diagram below illustrates a simplified aspect of my approach. <br> <br> The software inventory for this solution is centered around GitLab CE v17.9.0, JFrog Container Registry 7.98.7, and MongoDB 8.0.4, along with additional software fully documented in the provided link on the right | [[Hyperlink]](https://github.com/hpilon/movieapps) - https://github.com/hpilon/movieapps |
 
 ## Additional content coming soon ...
 
